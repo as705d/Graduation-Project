@@ -1,0 +1,4328 @@
+Number of files: 980
+
+/home/server3/workstation/project/datasets/980/00011da62b42afdb113732252d44b054.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/000aadad7b6e9316638e920f863855e7.vir
+PE: installer: Nullsoft Scriptable Install System(3.0a0)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/000abf288763309c61b418a26accde16.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/000c843a3b33ece069ab68332166fcbf.vir
+PE: installer: Nullsoft Scriptable Install System(3.03)[lzma,solid]
+PE: packer: UPX(3.94)[NRV,brute]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/000c8e05633112ee9836844cb7ce248d.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt,wmain]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/000cf187767e85e17fb8b082505d3bda.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/000cf45762de2c8b602ff4a422395560.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0014567367eddb4a7af186b9e83d3928.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0017b4cc3e584aac69369d06049f5aa6.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/00187eab6f408086d1d739d4dd2cc51b.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/001da0dcd43214567e5b95405f7538bb.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/002457f32661433b58deaffb4c5f879f.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00247b0e333b62d7dd62b0529ea6c6e4.vir
+PE: sfx: WinACE(2.6.0.0)[-]
+PE: compiler: Watcom(-)[-]
+PE: linker: Watcom Linker(2.18*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/00285555ddd4cf729db70bc62ccba665.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/002ecf83540369333f5c17bb2867f3b2.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[msvcrt,wmain]
+PE: linker: Microsoft Linker(10.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0031b6bc78d7f7edd059a3dc3ea1546d.vir
+PE: packer: UPX(-)[modified]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0034ea31843f7a04effc659c261a2592.vir
+PE: installer: Nullsoft Scriptable Install System(3.01)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/00366e05529ad18c3f743dabd4e11a86.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0038599a0fc89f9826edd81cd81d5d9d.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/004263064fc93ebf27ef4a3f5213cfee.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00459c0b14c35b49ae7041dee0f10413.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/004bd84418b350bc0fb4fd08e088ea9b.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/004c769bbb498c5da743cf0c14234792.vir
+PE: compiler: Microsoft Visual C/C++(2012 update 3)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/00501ead69a8cbe6b5626f744dd2021e.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: protector: Petite(2.X)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0058e917bc95f0fac2976e9a8228ed5b.vir
+PE: compiler: Embarcadero Delphi(XE2-XE6)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/005d8e4146d9552a094d7950f60bc178.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/005e6b11d1ae3391e94973c4514e04f9.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/006833735df560d6b4d969fb5505da6b.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/006d2548205995dbed4c0ccdcc6b0f3d.vir
+PE: protector: SVK Protector(1.3x/1.4x)[-]
+PE: linker: LCC Linker(2.55*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/006d4d411a892effba9bfffc94a14a86.vir
+PE: compiler: Microsoft Visual C/C++(2017 v.15.3)[-]
+PE: linker: Microsoft Linker(14.11, Visual Studio 2017 15.3*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/006fc036e345e46c3477fefb8217b0bb.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0070b3a9bd8c3b7e93f44e20ac019b3a.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00738d94413cee90fd4bf1f79d3102e9.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libcmt]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/007c4bb274ecec65872ca6c8302cb00e.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0082ca8090da81175bca6af677d877fc.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(80.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0089ce6d4062b1b1ceb8f05f544b854a.vir
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/00939d082d94c5c80d3cba3c7bba615f.vir
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0095273520266301d8e214a77c62016e.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00991fdbffbea37bef34c5de9008f515.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/009c468f2bd8f25930df09ebb2a34b07.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/009cdf3462f72e6a22a1860911940fb0.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/009d26389a4845e90d5645579586e6ed.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt,wmain]
+PE: linker: Microsoft Linker(9.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/009fe52e50ccbac0e283ad942e99bcbf.vir
+PE: protector: Confuser(1.9.0.0)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00a4875b7f275e8800799f63fba1839f.vir
+PE: compiler: Microsoft Visual C/C++(2017 v.15.5)[-]
+PE: linker: Microsoft Linker(14.12, Visual Studio 2017 15.5*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00a48818dd1b024240d10a043fa6cb04.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: packer: UPX(3.07)[NRV,brute]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/00a5a2aaf88cd19308e7f991b537102a.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00a725ad5d857ba5bf02701b95b46454.vir
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00a73a56e4b3a2a20a89da0ca4e579ff.vir
+PE: packer: ASPack(2.1)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00a96abb9a93efbcab692f63ce68a7d3.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00b161a08c2df059ebac92ff1a07868b.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/00b2e46ff6bf63ec59449b36fead0d5d.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/00b8c65cd13fc2a7e8bb97110bf3aade.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/00bdaf6dbe2bed4111b1a7ab10b43363.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00c1b4c9f203fe9f671e774838f4fb13.vir
+PE: library: .NET(v2.0)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/00c73df4a9042a757870726e9406606e.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/00c8ad29f5c23d30bd2f316325b62bcb.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00cc1c313a005fb37019fdf7057586c9.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00cd6223e08745eb16342688cd328299.vir
+PE: installer: Nullsoft Scriptable Install System(2.28)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/00cddc258f5a43b49ed7763731d9e2a7.vir
+PE: protector: ASProtect(1.23-2.56)[-]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00d1fd09b83c0b7f3d800d71d8cee071.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00d9d53294b4ae712556b203907fe054.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/00e99591cab04e924c130d1454164c31.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00ea9110f86b03e1a718ddb6646c7bb3.vir
+PE: protector: Smart Assembly(6.9.0.114)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00ea9b04acbde2c49568caa57268407c.vir
+PE: linker: Microsoft Linker(12.10*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/00ec3b8e75c08a3868bfab0ca9005808.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/00f2e0d1ee7891332a49b6b50b09534e.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/01008d122e6769a67eeb28656f5d303a.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/010354a29b420fbd53d37897e0503d1b.vir
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0106a2c14b8adece65730e1fc2e460db.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/010783dfd46f1cc9d9e97e51bd4e77ea.vir
+PE: linker: Microsoft Linker(12.12)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0108ba3a8e1009d22fcb172431a1f533.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/010a84319085579de2a628ca895a7b05.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/010dd7d04c2ff4c23a0c9dd8f5caca6a.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/010f0042ba7f2ba88bf324c03df45895.vir
+PE: packer: UPX(3.94)[NRV,brute]
+PE: linker: Microsoft Linker(14.13, Visual Studio 2017 15.6*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0112099d799932241c5dfdd3df2008b4.vir
+PE: compiler: Borland Delphi(2-3)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/011296d6c83922564b6f8e4292e34c4a.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: archive: Microsoft Cabinet File(1.03)[LZX,700.0%,1 file]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/01146d8c6d7f543408790e4feda08b4e.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01148c26580f01f77f49d0681e9c4c84.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0117af434b3b9f761ba84fd617682094.vir
+PE: compiler: FASM(10.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/011b6623e353799b165630a0d6a3de1f.vir
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0120c09fa40ad674cda4f851528b85b2.vir
+PE: linker: Microsoft Linker(12.10*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0120d7769d1bfb52137dd87ca1ba02a2.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/012514728e87889d121fd33be2e04fce.vir
+PE: packer: UPX(3.02)[LZMA,brute]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/01293d7918dda8b8d3478bd35c204532.vir
+PE: compiler: MinGW(GCC: (rev5, Built by MinGW-W64 project) 4.8.1)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.23)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/012e05ea41c4232804957f18304a63a8.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/012f53fe1ed8928774a7ab097af547d6.vir
+PE: installer: 7-Zip(1.0)[-]
+PE: installer: InstallAnywhere(6.1)[-]
+PE: packer: UPX(3.94)[NRV,brute]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: archive: 7-Zip(0.4)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: 7-zip Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/01317ccb913be727aaa38f2e60b91690.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/013506189966868aa843d51b8e644a39.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0136eda9dcb6f2335d77ce8a3aef904a.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/01372c1823cde9400bc4aea37b1284cf.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/013b18bcf9b5e83ab4cddc18c3996b8f.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/013c4758b0cab0bb570f65243c5cf693.vir
+PE: installer: Nullsoft Scriptable Install System(3.0a2)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0144abf8270b697b1da8a1fd62dcdd24.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/01485addcc241a54f7b03897ca6cd344.vir
+PE: protector: Babel .NET(3.X)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/014938ff54e64d0956f3cf677a596404.vir
+PE: installer: Nullsoft Scriptable Install System(2.45)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/015a5d6bcdba4840091ee99003a824d4.vir
+PE: installer: Nullsoft Scriptable Install System(2.45)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/015b3e2597e61144dd9491c23643cc15.vir
+PE: packer: UPX(3.91)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/015b6dbab460f74a9b08d8e3c70d77d8.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/015cd8644550fdb8c084c40c9ba966c7.vir
+PE: installer: Inno Setup Module(5.2.3)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0160a8e841d7e9f0c05f53f04db9f2bd.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0164909d6d3cdd7d1539ffdcbe490692.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0165a03d12bd3a04e111d9ccaaccc833.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt,wmain]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/016a4ffa2d86aae4fbce99844da361e9.vir
+PE: compiler: Microsoft Visual C/C++(2003 SP1)[-]
+PE: linker: Microsoft Linker(7.10)[DLL32]
+
+/home/server3/workstation/project/datasets/980/016c48afdc497827194fe848fb390b46.vir
+PE: installer: Inno Setup Module(-)[-]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/017561e8dc86707fbb32044a4909c37e.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/017805ee75858c8d714841a2e20456ec.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/017867e7758dffb903881a5888dda81a.vir
+PE: installer: Nullsoft Scriptable Install System(2.15)[lzma]
+PE: packer: UPX(1.24)[NRV,brute]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/017c5e60837522a950a09dc172b70ad6.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/017e8ce3197d87b2944ce0bd425b12c8.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01833b55070ca78bbb98a0a35d0cbc0e.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0184b3d45f0af9bae518caae5c74e9b3.vir
+PE: installer: Nullsoft Scriptable Install System(24-Aug-2016.cvs)[zlib]
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/01853f90f1755463b01a19c2a22df4e2.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/018876da87283ede02ade9e44185b144.vir
+PE: packer: MPRESS(2.19)[-]
+PE: linker: unknown(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/018c43eb9b1c3a547175ae7ee3946aa0.vir
+PE: installer: Acronis installer(-)[ZIP]
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+PE: overlay: ZIP archive(-)[-]
+PE: archive: Zip(2.0)[41.0%,2 files]
+
+/home/server3/workstation/project/datasets/980/018e4bfabe1a410b086bfaea6df839c3.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01906215698f0ab66821b1fcfd95c5ad.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/01953a56a3ccf94dbe4be35ad705acd6.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0195c25483e7029cce1827a12c6dd456.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0196463d027bb5a4ca717f23139a3ce2.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/019baaad38429cabbc26cf0a2dc16c66.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01a754417a931c1dafefd70274d714d2.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01a7e2c45671a9c2a660e0317d8d3319.vir
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01a82b2c90503ec318052e83c5c29483.vir
+PE: protector: Eazfuscator(-)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01af6e045c2fdadf36eca7a850d3b4d1.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/01b0e7edbbf01611b0516657ce9ce79c.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(12.10*)[DLL32,signed]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/01b3efd3ddd9d2a8067fa9f1bd786d2c.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/01b52f53722e54c5c110563704a51445.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.6*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01b6e263c04759cb5d1187ddf2c9bac2.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/01bbcd28d9a46332c284061f45e901b2.vir
+PE: packer: ASPack(2.12-2.42)[-]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01bbd205365bdf2d859de76b21c3706f.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01c2d3dbce1ba027ad3828deb63ce403.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01c49fac42842ff14df53cccf9fa71da.vir
+PE: compiler: Microsoft Visual C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/01c551a0beed4316c38f717c87c9150e.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt,wmain]
+PE: linker: Microsoft Linker(9.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/01cd3b7ee4dc3b5cfbaa5dd92a344e2f.vir
+PE: linker: Microsoft Linker(5.12)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01cfd699954f191bf1bf81e5e46fd63a.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01d3575db218ce2dd588666bc94b55b1.vir
+PE: protector: PELock(-)[-]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01d43cda114917686008112b540d74e8.vir
+PE: compiler: MinGW(gcc-4.4.1)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01d8107767a1876ea2fc058b440c9bed.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/01d97750fcd013e537b342a6a5cf7703.vir
+PE: linker: Microsoft Linker(4.82)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01dd00c6a0cf5911271b065116da6b34.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01de622efc9bdd629c89b5a47fb970ec.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01e508da55eb93f83dba9613082e4dfb.vir
+PE: packer: PECompact(3.02.2)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01e670f9324d45b91b1a623f247fe245.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01f13473e26f25594b239d5a5e70acc0.vir
+PE: packer: UPX(3.93)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01f2a88f16a9af854249dadfd92624f7.vir
+PE: packer: UPX(1.20)[NRV,brute]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01f3a95595812ab96c61ec83538e3da3.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/01ff17d0480c4745f4230e08b8d128ce.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/02027364d99a780aabb4bd8f817fc2aa.vir
+PE: protector: Confuser(1.X)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02044a46273d70d9e13a0c9a1ed9d748.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0204be55893c474ddb5f8579d57408c4.vir
+PE: library: MFC(10.0)[Unicode]
+PE: compiler: Microsoft Visual C++(2010 SP1)[libcmt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/020cec258d7cbe6c6d2ccf9e94696ceb.vir
+PE: installer: Nullsoft Scriptable Install System(2.45)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0214f72421e8e59f69b6146133cea1e3.vir
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02161dc7b1019239d2c5732a482028ef.vir
+PE: packer: UPX(3.94)[NRV,brute]
+PE: linker: Microsoft Linker(14.13, Visual Studio 2017 15.6*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/02199cf7c7493b194585c559791155df.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/021b7b64c6ee0ad0513e0dbbe7fc0486.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0221d320939679e08db5d83ccc28b409.vir
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0222a35d5362a67c01b40d68fefdeab6.vir
+PE: linker: unknown(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/022608febef92c150d120b4d0204d187.vir
+PE: sfx: 7-Zip(4.65)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: archive: 7-Zip(0.3)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0228cbcf06f6ecb8766b4f93320602ae.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/022a91002a6518878b361b96b1b56eb4.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0230afeaeea44ad84c4f5ca589e091cd.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0231fe721ab27973a7190cae4fcc1f71.vir
+PE: packer: UPX(3.07)[NRV,brute]
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.25)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/02371fabc90d0b6bb7e91e8faff328a0.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02432daa6b026107be1189ce2b6965da.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02451bdc45f354a12f985b0123434a57.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0248c7720f2aeab86ac7cf99b9e64bb5.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/024c6cd6304d361ade02d3e41d0338e8.vir
+PE: installer: Acronis installer(-)[ZIP]
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,admin]
+PE: overlay: ZIP archive(-)[-]
+PE: archive: Zip(2.0)[59.9%,2 files]
+
+/home/server3/workstation/project/datasets/980/024d7d6670b4e5f31f38366807e8cd6a.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/025101bad4bfe661c1b87d10eb954a45.vir
+PE: linker: Microsoft Linker(14.11, Visual Studio 2017 15.3*)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0251c0239b83011d930437c462d6ead8.vir
+PE: protector: Dotfuscator(-)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/025382711d51dca062937e3341d5ae96.vir
+PE: installer: Nullsoft Scriptable Install System(28-Oct-2013.cvs)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/025886fc89d7b86ebda9b07655998f78.vir
+PE: installer: Nullsoft Scriptable Install System(3.0a2)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/025cfc25370891802634e04ef44ddf3d.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/025df40c3a0a32ab859d13a5285e5622.vir
+PE: compiler: Microsoft Visual Basic(5.0)[Native]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/025e79d976307d2d82bc467d050a9bfa.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0261635e92b2278bda8ad970f6a0813b.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0278961d547fe89d8e928106f13473be.vir
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02816897897cd3ec5fc7af5edd652dfa.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: packer: UPX(3.94)[LZMA,best]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/028499678919af121864db0d6d0e61e1.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/028ab80da745f7b0395044a5e0a2d0a7.vir
+PE: compiler: Microsoft Visual C++(2010 SP1)[msvcrt,wmain]
+PE: linker: Microsoft Linker(10.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/028f027089dbb71d78cea156791b9eb1.vir
+PE: installer: Nullsoft Scriptable Install System(3.0)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/029566c1f4ceaa25288df73c6e490ebb.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/02963d331b984d4a5d5c83b2ad11bfe4.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/029687fb4a832b82ada6a313585d3b27.vir
+PE: compiler: Microsoft Visual C/C++(2012)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/0297cbcdefc533edcefca051a80d3cb9.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/029d8d132f6fb0cd4ac8ec06df3c1977.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/029e4d2d4a00305bc489e6c99dcbbcdf.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/02a28f9cedb806771a19d3b6abef34ff.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt,wmain]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02a4aac2e92cb7c9bcb3571530b147c3.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/02a7e4c5a6a1f63dca798cf16f3e0a56.vir
+PE: protector: Enigma Virtual Box(-)[-]
+PE: library: .NET(-)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32,console,admin]
+
+/home/server3/workstation/project/datasets/980/02a85edb8712e504a5655796e8b68428.vir
+PE: packer: UPX(3.91)[NRV,brute]
+PE: linker: Microsoft Linker(12.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/02adb29b0d45c624a2d6b4fd4a4a9a11.vir
+PE: compiler: Borland Delphi(2006)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/02bc20bce601cde223e833e320975420.vir
+PE: compiler: Microsoft Visual Basic(4.0)[-]
+PE: linker: Microsoft Linker(4.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02becc62f2555be4f15954cde23a82b5.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02c028e904685f564757972359f3d223.vir
+PE: compiler: Microsoft Visual C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/02c24977392e0faeb090cc825c9e746c.vir
+PE: linker: Microsoft Linker(11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/02ce5a919c036d81b5ce3e4c5199e716.vir
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/02cf9e0ac5026e7ed7fcd557a487db2b.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/02d0ceaca03080a9ff2d7d7771ed4768.vir
+PE: compiler: Microsoft C/C++(3.0)[-]
+PE: linker: Microsoft Linker(3.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02d37af3d8a5ece05f2cd90b2285854c.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02d3b4f2d0fbcad970ed38a3e5a508b6.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02d9a14670f69190dc528615eb3f6f3c.vir
+PE: sfx: WinZip(6.x)[-]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+PE: archive: Zip(2.0)[40.7%,2 files]
+
+/home/server3/workstation/project/datasets/980/02da7f7f5ecbe14a63b71bbf27a84e99.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/02df6af750d2597c5bda8f13bc872297.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02e3542b34e401e54a118e83c80a4b2b.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02e3d20c32d5013472f7fb93010743ea.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/02e4f7e71aadd465352e109e51c29f29.vir
+PE: compiler: Microsoft Visual C/C++(2002)[-]
+PE: linker: Microsoft Linker(7.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02eaf7a9abd56fbdb0f0dfedc0bd1dfc.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/02ede444bd40fbb3c861ebe82348840c.vir
+PE: protector: ENIGMA(-)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(2.25*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/02f06be4342bcc2c0730fdd2145b7708.vir
+PE: installer: Nullsoft Scriptable Install System(2.46-7)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/02f93bf85716bb2b322ff4d068b7f59e.vir
+PE: installer: Nullsoft Scriptable Install System(-)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0307c4aefaad4dacc8583d7bb14c6f2a.vir
+PE: linker: Microsoft Linker(11.0)[DLL32,signed]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0309043519bc6d2cb1b97978d8ecdc31.vir
+PE: library: Python(3.3)[-]
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0311abc8d4345aa7c49e267f3280785d.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0311ba55c83a9146ff340847ff891df2.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/03147e2a35529a786118d1970c512380.vir
+PE: packer: ASPack(2.12-2.42)[-]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/031cdfbd9c6be918f470b83cfc9aec9a.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/031d82494922a317c66db97613bf052f.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/031eab560f826ccc640d86b037831a77.vir
+PE: library: MFC(9.0)[Unicode]
+PE: compiler: Microsoft Visual C++(2008)[msvcrt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/0320f33f14917f4163bc90bab24b7669.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0321e23474736f11fc2bdfa4e337d436.vir
+PE: protector: Smart Assembly(6.7.0.239)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/032a762bdd8f84d6117edeef256a193c.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/032db1216c5e5383d474103120cbedac.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/033255a33fc4f24ee785738c8c3e9e4b.vir
+PE: linker: Microsoft Linker(11.0*)[Driver32]
+
+/home/server3/workstation/project/datasets/980/03332ab192f447c9dec9db63b5aee522.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/03337497639d5580994d0bdc81b7c3e7.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/033427de5bb22762126b77ffd66e7186.vir
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/033866913d8fcb03f18be054375eec52.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/033c17d1271e2610b22dab02eb10ea43.vir
+PE: compiler: Microsoft Visual C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/033f363f17e4457ff03a1ce9d18c92ca.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/034070dc027b07dde6b3185f5ad8c8bc.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0345cb669c3657b8f106335c8e9451b1.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0345d1e80c0529c65ed2f3052ef5a71d.vir
+PE: compiler: Borland Delphi(2006)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/034ab9c18a30e50ccc901ae216545885.vir
+PE: linker: Microsoft Linker(13.13)[EXE32]
+
+/home/server3/workstation/project/datasets/980/034b32df4d79941f4b445c7e5d15b12b.vir
+PE: installer: Nullsoft Scriptable Install System(19-Mar-2012.cvs)[lzma]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/034f47d6046eedaf861c0c5798a81e56.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/035301cf1f324104c1bb80ca6ca898e3.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0353c931e267fcd790a116424a47e8d5.vir
+PE: protector: Smart Assembly(-)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03565a86e69f10fa6482ccf6ee9c0078.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[zlib]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/035aabc5b373108eb7844e1349e714a3.vir
+PE: packer: UPX(3.02)[LZMA,brute]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/035b23160bc1c10beee34d1ac8cd3f4a.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/035c0b0539fe89d8915555d23d48d847.vir
+PE: installer: Inno Setup Module(5.1.2)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0365c2bb1fbaa792fca62bbc18ec265f.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/036c1b2769592062e9727a640efe1b1d.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/036e3e4359acb90fe3add0e4925f5e36.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0376da2e7e6ca674e9f0c73df99bb66c.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt,wWinMain]
+PE: archive: Microsoft Cabinet File(1.03)[MSZip,18.7%,101 files]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0377baf9ac3d80a284a109fdae73b168.vir
+PE: linker: unknown(6.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/037c595c3838ddba58e055c1d78c541f.vir
+PE: packer: UPX(3.94)[NRV,brute]
+PE: linker: Microsoft Linker(14.13, Visual Studio 2017 15.6*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/037c9a6d52531c5bcba973733ecec32f.vir
+PE: linker: unknown(0.255)[EXE32]
+
+/home/server3/workstation/project/datasets/980/037e51a1e1de91cff2bc2814ed84386c.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0380ede72502fa526696dd5a9d209af2.vir
+PE: compiler: MinGW(GCC: (GNU) 4.8.3)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.24)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/038c6f827abc80919371f69f9b8a257b.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/038e5c9bde7505ee99cf1c79b59ffdfc.vir
+PE: packer: UPX(3.07)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/039234fbba29c4befc8e80aa08f912ef.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/039305b1fa9d60957b2065fa9488aae0.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.26)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/039475838da3be79e0a0733288184de6.vir
+PE: linker: Polink(2.50*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0397f8d0019adfad82fa9f0043d0a126.vir
+PE: linker: Microsoft Linker(12.10*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/039963011ed0678b6d74d7c73e957b89.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/039e063da788962404de12c9d44254f6.vir
+PE: compiler: MinGW(GCC: (Rev2, Built by MSYS2 project) 5.2.0)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.25)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/03a3c936b6d60d7260bb8cec1697700f.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03a4b8341404014e264e1b07423d3eff.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03a7e777250963cbafe4c0072b4bede6.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(80.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03aad21308c6e0a49af76a382790e2e7.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03ae929680e9cbe174a58a29ca538249.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03af93094b884fa5e6b5fc4707a1bc07.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03b7a33588e0da3cc66ff87431f3c4a4.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/03baa19137bfa3bb439738357bd747a6.vir
+PE: compiler: Microsoft Visual C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/03c0ab8566f456cff2b3d458946f6861.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03c82b71b79b3c0fa35839aa49367fe0.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03c9283abb864a963161aa0f06523a9a.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/03cb45c4ef441c1c989b739a454fb917.vir
+PE: protector: Confuser(1.9.0.0)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03d3454b84e25fe007435b2869bde3d7.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/03d953307cabf8f30b8365b4b033943a.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/03d9a11a181f8d2054f9f3137ce46d0a.vir
+PE: installer: Nullsoft Scriptable Install System(3.0rc2)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/03db0e22d0ab9415e9951c67c6b60ec1.vir
+PE: protector: Confuser(1.9.0.0)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03e5ba485789641b17d05518e5fc49e1.vir
+PE: installer: Inno Setup Module(5.1.2)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/03e6040d67c73fe42af653b7549f1037.vir
+PE: protector: Eazfuscator(-)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03e852d38d1352439622b97026ac5d36.vir
+PE: installer: Nullsoft Scriptable Install System(2.44)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/03ec83cf718573fb05662ffe1246cbb4.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03ed0342371a7abef2deef3b2afbdbd7.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03efc4569e2ff7ca0863768fdecedcf8.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/03f608d0280590496ff1ea7f9d51e9ca.vir
+PE: compiler: FASM(11.1*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03fa35855c29f37bcf2146b34094f28e.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03fb13f55b0ce66d449b10b9d30d68c6.vir
+PE: library: MFC(10.0)[Unicode]
+PE: compiler: Microsoft Visual C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/03fb98f021fe0609da6510e512782317.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/03fc76f7ae675622c1570f90ba9d8e6d.vir
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/03fcd2f20ff47fceb833071a8dd23793.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[DLL32,signed]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/03fff01a33679339a4d370278fbaa0b1.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: Microsoft Visual C/C++(2012)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04065f48ea38b2c5a93ebfe73e702e5d.vir
+PE: compiler: PureBasic(4.X)[-]
+PE: linker: Polink(2.50*)[EXE32,console,admin]
+
+/home/server3/workstation/project/datasets/980/04071333debc867a8ac9f28acea2c880.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04077688345a72fe976c980140e4891a.vir
+PE: library: MFC(4.2)[Unicode]
+PE: compiler: Microsoft Visual C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0409112f2f684c2530ae0eb15580dad4.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/040adee40466f9a78265b6b2bcc58fc9.vir
+PE: packer: UPX(3.94)[NRV,brute]
+PE: linker: Microsoft Linker(14.13, Visual Studio 2017 15.6*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/040b95568760e5d97aed0e07bb0137c4.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0411c3e0f1fe2cc38d1031523492e475.vir
+PE: compiler: PureBasic(4.X)[-]
+PE: linker: Polink(2.50*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04145e75d1d8f6e37b79de13ac20b6f4.vir
+PE: compiler: Microsoft Visual C/C++(5.0)[-]
+PE: linker: Microsoft Linker(5.12*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0418e5140acc318835c9d67d1a4735c2.vir
+PE: linker: Polink(2.50*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/041debe5cf581477279705ac363d970e.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/041df5985247bcb48ee2d5e5b46f4881.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0421e91913555be20d392924e908f095.vir
+PE: installer: Nullsoft Scriptable Install System(3.01)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0428a4234d7585b476fd2f02702c2c32.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/042b57e3495a82d5009efe1b2fc7c8d9.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/04345728038f624e598fba5a6d5bf2c1.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0439b6e29db78ee88d5f44f5d319acc0.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/043d3761f1a780eacf3f6bdc811d8388.vir
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0440edb530b61f4956ed31dcef2b2d6b.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04414b98385c50710bac9dcdfd8b3fc9.vir
+PE: linker: Microsoft Linker(7.10)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0442cd859b577f102934e88a28408641.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0445652c766e7d488f769edeb25d7ba6.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/044a324c5966e57adcf493acb85868b7.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libcmt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/044ca373868f2bdd11e18928f8b512cf.vir
+PE: linker: unknown(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/045174ce53dd89b83c3a5d781d058d4c.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0455d510024677a91c5562b796fd75ff.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04563f7ac1837cce64acccc59e8c2dfd.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/045ab8d1f27935bbde52eb63a8aa1be2.vir
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/045c37ebca91191d0fa0c9c523d6dd6a.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0464c470dffd5746f4aec60d443a34a7.vir
+PE: protector: Babel .NET(3.X)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/046c67d9d7f3cbbbebe0922e33abc1bc.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/046d28953b24b14307f9028dbe3c4ecc.vir
+PE: compiler: Microsoft Visual C/C++(2017 v.15.0)[-]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/046de4e6518d5c2aee5d391315758cc4.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0470bb2ddd854d8264afb69d4823fb40.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/04734f533520292915980cf2efdd9adc.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/047788893268c5f943098c0bb9f126b7.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/04876a282a22e2055944f5674a448511.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04877fb35e358dd80d53467568801e87.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/04885bcf83061fa034c65beafdcc7c26.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/048de9d52d5812665b6d00c8053ba9a2.vir
+PE: sfx: WinZip(3.1)[-]
+PE: linker: Microsoft Linker(5.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04910f9e88d22170c0bc1b492c8a5d47.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04914f4116e46414ac8dc88c5e76f06f.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0491bbee6ed6c69f8cdf66f4e29601ff.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0493398575fd48c839d9d79d2fe5aaa2.vir
+PE: protector: Confuser(1.X)[-]
+PE: protector: ConfuserEx(0.6.0)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04941752425e3d1682fcb7dac18f0755.vir
+PE: library: MFC(10.0)[Unicode]
+PE: compiler: Microsoft Visual C++(2010 SP1)[libcmt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0496dc9f7c6c9052bcc1ea74120977c0.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/049990a5d24ca685c6d6f9432379485c.vir
+PE: linker: Microsoft Linker(5.12)[EXE32]
+
+/home/server3/workstation/project/datasets/980/049bc75031518c27b9f8e5fd9df0184c.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/049f30d049c139273a5bed1c8c3e9ec3.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/049f8700423025d4def5845a3675e337.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04a2f6e7c6f6c302304bebe4a984f7c2.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04a65c59f7c0b0d38830d438b91e3149.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/04a6ab61687171be5f4c02dc2f85d48d.vir
+PE: compiler: Borland Delphi(6)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04a7ccf0345fff379e1742bdf1d2034c.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/04ad10e46e2d2fc0d959d5b21a457730.vir
+PE: installer: Nullsoft Scriptable Install System(-)[lzma,solid]
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.22)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/04ad6a38c2e096690da0469b4e4612d3.vir
+PE: sfx: WinZip(6.x)[-]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+PE: archive: Zip(2.0)[48.4%,5 files]
+
+/home/server3/workstation/project/datasets/980/04ba12e0607ae2c5713afc1332d836ae.vir
+PE: linker: unknown(2.60)[DLL32,console]
+PE: overlay: PDB 2.0 file link(-)[-]
+
+/home/server3/workstation/project/datasets/980/04bb4e6f9d5a726519e5b74867fc7cc6.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04bc5262e74d28194961e1da95b788ff.vir
+PE: linker: Microsoft Linker(5.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04bcf5ccff3189166317c26c8d68e04a.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/04bd7700069e19ce14dab38475c38eca.vir
+PE: linker: Microsoft Linker(12.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04c266f518738f6bfec689052d333615.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.1-Unicode)[zlib]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04c2f842dd76fbd8eef8af1138f52c0d.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04c379d26c941ec86e1bfd6f3a0b6b9e.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/04c580b53cc5fc1b0c0659c78a97125e.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(2.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04c658042d93ae07ed8cd9f9a2a0b0aa.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04c90db2de9faacb4b42dc24724cb6eb.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04ccda8b4063c8e4f9b5e6613d60084e.vir
+PE: packer: UPX(3.00)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04d0ce3478059697ca0eef8cb0c4e692.vir
+PE: compiler: MinGW(GCC: (GNU) 5.1.0)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.24)[DLL32]
+
+/home/server3/workstation/project/datasets/980/04d5fd8c5f793499b15b43faa478bab7.vir
+PE: library: MFC(12.0)[-]
+PE: linker: Microsoft Linker(12.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/04d63708b6469154877cce7d4619bb84.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(80.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04dcc6d19962b5afea47c08219296e8e.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/04e0bbafeb240461161d15c5a8541bba.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04e4209962b70d4b525338ba3d81d387.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04e6ad4283893125b9524581243c6b98.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/04f16f09bdd6df316b3e525021d2e17e.vir
+PE: compiler: Microsoft Visual C/C++(2005)[msvcrt]
+PE: linker: Microsoft Linker(8.0 or 11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/04f72a3af9b33151aa4249ddb2bddc06.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04f7820380233b81dc043c4e52043cf3.vir
+PE: packer: UPX(3.07)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04fd8e1125111c3433e6b5d61d88a827.vir
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/04fea7ef1fd8e0353c69c65ac2bd9725.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/05055c6bb3441ecac9c34a9d31027b06.vir
+PE: installer: Nullsoft Scriptable Install System(3.01)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/050a75308d6b2954b5bd676958e41179.vir
+PE: compiler: Free Pascal(2.4.0 [2009/12/18] for i386 - Win32)[-]
+
+/home/server3/workstation/project/datasets/980/050c92602576abe7a4ae1b860017e968.vir
+PE: installer: Nullsoft Scriptable Install System(3.01)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/050f888620c8039d8cd1fba294aa3703.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/050f9a2183f572bd38a76ab584699650.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0515d7ea42de990d2459f68a9d4e3998.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0519b4fb469dd37c330e34dd05f8b1f3.vir
+PE: packer: UPX(1.25)[NRV,brute]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/051bec39d070ca70ee15ecc119492403.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/051f213ccb845ba5e7911a2e3a261fa6.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0521471d17317dbf03f6bfc8e93409aa.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0528b3faf72587bf2e65abc634bea201.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/052ac05b49e05bee128e5a17a1311cea.vir
+PE: compiler: Microsoft Visual Basic(5.0)[Native]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/052b07a458ac36ce84e981e97b0d398c.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/052f1f124c04a4dca733ab740c88f112.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0534f7efd9dc333c02a981381c51d50f.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0535bfd34ca1fcd2163262d6504ca0c9.vir
+PE: linker: Turbo Linker(2.3)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05374b33d453e1600a507429f048479b.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0537cdbaed1695a1e2f22a4a4f021c78.vir
+PE: linker: Microsoft Linker(8.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0539874ce774489df4e17af566d838ba.vir
+PE: installer: Inno Setup Module(5.2.1)[-]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup data(-)[-]
+
+/home/server3/workstation/project/datasets/980/053a0a70fa53852dc6722a893568bbbe.vir
+PE: packer: NsPacK(3.x)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0547eec318748d081568bf2b47ff4b4e.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: archive: Microsoft Cabinet File(1.03)[MSZip,32.3%,1 file]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/054867ab7e7c74d3a5d00ef2e5b342a9.vir
+PE: installer: Nullsoft Scriptable Install System(3.0)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0548ec34b925301d1916e2e2e7c2079a.vir
+PE: packer: UPX(3.02)[LZMA,brute]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/054d060a83ec5357c7e68c00c4e6294f.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05502239e5de574081e07212aba1cce1.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/05511e981e9678565ea48a569a78cfba.vir
+PE: protector: ACProtect(1.3x)[-]
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05523402b286f4a1136ce5d8216e9cab.vir
+PE: compiler: Microsoft Visual C++(2010 SP1)[libcmt]
+PE: library: Qt(4.X)[-]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/05535d7723cdfb2c686c4b1db7afa2c9.vir
+PE: compiler: Borland Delphi(2-3)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0558744b907f3fc1df4045e16c73f829.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05588e2a157625e9afe57f9f486ff7f4.vir
+PE: installer: Nullsoft Scriptable Install System(-)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/055a7d0d8cf41baa0436a2fd4f4a0bab.vir
+PE: installer: Nullsoft Scriptable Install System(2.44)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0564468a0fd0dcb5662b51eb931beeda.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0565b4f9480ead8abbc2d91a652c3ae7.vir
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/056635cfa0409696e80a4c1de0e779ab.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libcmt]
+PE: linker: Microsoft Linker(7.10)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/056742350e24099b35ee22232198ec6a.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/056891b8e2b9a8f16bb2a01d39ea838c.vir
+PE: installer: Nullsoft Scriptable Install System(2.34)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/056a09e8a5b00f5eaeb930187bd27094.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/056b36a8629835f14e49e8032a27c235.vir
+PE: compiler: Microsoft Visual C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/056b3ca99015b5c0d0f4c042d55428d2.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/056fd7153598c6fecdf169f3d56031c8.vir
+PE: packer: UPX(1.08)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05711487ef9f8524d78f1b0782490f68.vir
+PE: installer: Nullsoft Scriptable Install System(3.0)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0571160ab9bb56fb404697eab888ac7d.vir
+PE: packer: PECompact(3.02.2 or 3.03.21 beta)[-]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05755203445393fb935495b24426eeba.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/057aa4c6f23d8258edb3b690f569354e.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/057c9d8b96d91ffcadff06cb28e9568f.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/05803bc286612a6a4acbcd53268ee437.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/05837972b5b785fa8cd75065ad244124.vir
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05842e0e297bb2a7231f816f34fdf053.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0589251419f1a023e7f1aa07083b592d.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b1)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/058de61298f3053abd05dab6e553d14c.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05906ed252b5647f6e522425537b21cc.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/059074dccf30bba9c2484ced7e961d31.vir
+PE: installer: Smart Install Maker(5.04)[-]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,admin]
+PE: overlay: Smart Install Maker data(5.04)[-]
+
+/home/server3/workstation/project/datasets/980/0591ec0c7ec70e905d96280c823aba1c.vir
+PE: compiler: Microsoft Visual Basic(5.0)[P-Code]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05932aa7e7cadcd1cbfeeeb7c79a4e53.vir
+PE: installer: Nullsoft Scriptable Install System(25-Apr-2011.cvs)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/059970fac00e2e796749dc0e9ea6ab49.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/059d2f67bc3535550c82e66e34b26eb1.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05a034766b8fb2a65998917af42e8554.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05a207e1758a06d517f3226e7af5e543.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/05ab41f9d72fc82601950365df05f295.vir
+PE: compiler: Borland Delphi(6)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05ba0832b6c83a137571432a0df1f77d.vir
+PE: packer: UPX(3.91)[NRV,best]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05ba306afb8f982390c29565b52bd70c.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/05bba999af756bc988d1c6612810e99e.vir
+PE: installer: Nullsoft Scriptable Install System(2.44)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/05bd0bc95e5c34e993a11d7ecb907422.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/05bd61b96e9ab90646f64c6415b05761.vir
+PE: packer: ASPack(2.12-2.42)[-]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05bdd6c66ed9e27148a03cafa316621e.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/05bf34eb56dd6ce38d840b3eec30a3bd.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/05c2ef053f43fa7040eb3dedcabd6567.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05cc146ea3ac983de158e8c27be9ef82.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05ce7fa235c38022dcd6fa1b6f5a6f46.vir
+PE: packer: UPX(3.91)[NRV,brute]
+PE: linker: Microsoft Linker(12.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/05ce9965a7385bbf97221343a5c15113.vir
+PE: installer: Inno Setup Module(5.5.0)[unicode]
+PE: compiler: Embarcadero Delphi(2009-2010)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/05d271abcece5687c2f997e73ad5009b.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05de2891d32ce4d2f564094acfd7d5ab.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/05dffc77c69a1a63288c90efacc6cf8a.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05e478905d3d64a535bdd241a7fba2bc.vir
+PE: packer: DxPack(1.0)[-]
+PE: protector: Obsidium(-)[-]
+PE: linker: unknown(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05e65a7689932b304c79aaefc34fa405.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05e68879faa87d04a20f27fe8ed1147a.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/05e6d49d39145db03cbbff672e12e6aa.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05e7d288431b7fba08fbced4cb3e27d1.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/05e9bdc1679fac7d3debdea0ab752bf4.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05e9e1a3f6675dcb173ba6dd8e27a8ee.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2003)[libcmt]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05f4783dab71864a172881430442a602.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/05f842a992b2b18c3b4a9d215ec9e7d2.vir
+PE: compiler: Free Pascal(2.2.2 [2008/08/03] for i386 - Win32)[-]
+
+/home/server3/workstation/project/datasets/980/05f8c87b5c7e5d6cb26855c4f401c555.vir
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/05fc54660e0baf0fe7e0339c73feb2a2.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/05fd1625d95dc8d6426f4730675476f0.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/05ff7ead9276518bd11495f4e6eb9682.vir
+PE: linker: Microsoft Linker(5.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06064b50ccfdc6e64b2b2fe72bdbc2da.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/060654e79889e01bc7d4f257adefc363.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/060af39c3b6f490cee8eb19f15445ccb.vir
+PE: compiler: Microsoft Visual C/C++(2010)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/060f2739b294b8dfff30ddf8aae89c6e.vir
+PE: linker: Microsoft Linker(5.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/060fbc036026dad07c077934f66d036a.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0610b99c276c8a8ddf497e2c5178d01b.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.26)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/061788fd7752048a3b3245c3f8e43143.vir
+PE: compiler: MinGW(GCC: (GNU) 4.8.1)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.23)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/061c4be37ff82057bb634123c8a1013f.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/061eb8912a0087c3627dd918c1e64c95.vir
+PE: linker: unknown(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0622e7395e7132e388cc6ec572733814.vir
+PE: packer: ASPack(2.12-2.42)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0627d1cfa5eb043b7e6a07c898d3dd9f.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0629758311822a2caa3c8e04f60ec4c5.vir
+PE: library: MFC(4.2)[Unicode]
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06325e4112100bba812d9098b6e98132.vir
+PE: linker: Microsoft Linker(7.10)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/063386627d9bd0f07f448b0478e9d27e.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt,wmain]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/063a9efc0efef8b8830acee81c146ebf.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/063c99c265bd33f28bfa991487163d6b.vir
+PE: sfx: WinRAR(-)[-]
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+PE: overlay: RAR archive(-)[-]
+PE: archive: RAR(4)[91.5%,7 files]
+
+/home/server3/workstation/project/datasets/980/063e99f03f6976cafb198484b6443cdb.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0641c606ea7cf44855efa38d984eea3d.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0641d1e47eab8ad53a485005cfa438b6.vir
+PE: installer: Nullsoft Scriptable Install System(-)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/064213343accd78a18c7bb5457f1408b.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/064423731b55427f2192e094a8c1ceb1.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06446cc002055b089bc2208374b9b0b0.vir
+PE: compiler: Microsoft Visual C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/064611b7b2db636d7427b025d2bfe611.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/064687cef50825a52bca99b6d8c66da4.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/064b6c69968cf44a032952c2912d7a8b.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/064e097aa9e16e803ce0b4dd0bf8d647.vir
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06516b097df54830aac642b8f4888444.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/06539e928e6de4345daea4189712247c.vir
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/065654f0eb89c0f695102260f1743e45.vir
+PE: compiler: Microsoft Visual C++(2003 SP1)[-]
+PE: linker: Microsoft Linker(7.10)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/065915dadab6131697b46bb61cb79ee0.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/065ac07f68f00751d46e64f8d8bfcf87.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06600d7feff0ad008528ff1f2b32eea0.vir
+PE: linker: LCC Linker(2.55*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0663bd857f2e45e55a372e794fecb5c9.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libcd]
+PE: linker: Microsoft Linker(6.0)[EXE32,console]
+PE: overlay: PDB 2.0 file link(-)[-]
+
+/home/server3/workstation/project/datasets/980/0669616810aeae81d838fc2284376c7d.vir
+PE: compiler: Microsoft Visual C/C++(2012 update 4)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/066d5eae7b4d60427c24c668b8b4444b.vir
+PE: installer: Nullsoft Scriptable Install System(2.37)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/066fba33dd6d022ff7d24d00f9a11232.vir
+PE: library: MFC(10.0)[-]
+PE: library: Python(2.4)[-]
+PE: compiler: Microsoft Visual C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0671bd33ccb6034a3b2da0c00e78c1e0.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libcmt]
+PE: linker: Microsoft Linker(6.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0673cf925b0ff799b9dd5bae744e5486.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/067fa2536ae3d1ddfe83cbf39c6a3c30.vir
+PE: compiler: Microsoft Visual C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/067fea39ad1d7b1aa975548991c78ac6.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0685d841a0479c06379f765b2e1cde6c.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/068c618194bce381c5450c854eee8f0a.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/068c9af3a5d4a37aa2f6ec7caf65ffd6.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/068db482a4ee6a5e8017998c5a2c6b37.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/068ecdd77a365cb6a7403d692fcd7b09.vir
+PE: library: .NET(WindowsRuntime 1.4)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0693bb2961d4f5e00df98f5df38fc0ad.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/06a7238c09e50793893490c2d805a4f1.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06ac56af67f4d8231b2716c15aa55baf.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/06aec105ea471db0ed42ee75d8cb2a6c.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06aed4285e983ae7a72ce5c7e7754824.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06afa38420538ca5cd33ebb64773a298.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06b40263f151beb010d296add02450cc.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06b4cb5d5dee1fedbdbf7579fd8dfcdf.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06b960824a4d8837d109dde1a4c30e45.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06bae346e7f92a86dd7e1b4f73a683cb.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06bf9c4eeb2c3ffd1b5eacbc2b6dca44.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06c14baa32cb06ed03142670ffa25f5f.vir
+PE: installer: Nullsoft Scriptable Install System(3.0a0)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06c5e2fae72cb12f580bf8f45464cac8.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06c8caca719b59beffd116ea5df169c8.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06c8f0c7c08ee49f2660411446530354.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2008)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/06c9e3fb7efe80b5c88895edac1f15c9.vir
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06cc7472626ae1c52d320d760dafa5bf.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06d5211bddb44491a3e4350aec59acdd.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(2.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06d641cf904591978ff1ba15608f70fc.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06d830ca0796ed0376a2c111457907b0.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06ddcfbb7f193f9442fa90856a44723a.vir
+PE: packer: UPX(3.03)[LZMA,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06eb2f70fa3178f184d30dc795c9c2df.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06ee88df31cbe76a75470b07fb44a380.vir
+PE: installer: Nullsoft Scriptable Install System(2.45)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06f06bb6c0c6d3efe5287ba00b0b8672.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06f5ddfa95acc675f0ccd9b0060acd0e.vir
+PE: compiler: Borland Delphi(4)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06f704395a9060a6b0f7bd99f5b1e3f0.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/06fb1ab549bedd7e507ecbb815422397.vir
+PE: linker: Microsoft Linker(5.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/06ffb7d7e090d71120ff74b8fd43c679.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0701aba1dfa3221ec5c9bb967e271166.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0703c55056092dffde55ce59b8a5a993.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0704e498b1f73fc270e05bc603d6af69.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/070ae1908610c204513e45d8953435d0.vir
+PE: installer: Inno Setup Module(5.1.11)[uninstall,unicode]
+PE: compiler: Embarcadero Delphi(2009)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/070ebdc235fe7443b2d40c48884ae944.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07163462d51beb39ebfd40ef571fe519.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/071a6b56421d50c04ba0414e1edd030d.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/071b9aeb817b157ab880acdb3db66b8c.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/07202db3799c5464efee5ae7b972ed9b.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/072987d36c9bd0475c566c134b8bf832.vir
+PE: compiler: Microsoft Visual C/C++(2017 v.15.0)[msvcrt]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/072f45c0dc32e36f1f7b5daf9b71c698.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07371dc1e71fea67fe55846209820f78.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0737c45a432c04bb7c2107c5fce91e96.vir
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/073d0ec04367e3416236834330d7b210.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/073e568218dd996f21e28142806ec2db.vir
+PE: installer: Inno Setup Module(5.2.3)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/073efb659377ec7096f4853de0e9f227.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0740c8cbdc7015f633daa2272f0e52af.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07492f5b0d0fdc0ec8bb9a5a7a9dd184.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07516b3be36c1b8905d0ea4be6d59ae3.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0757b13dd7146ebd076a0bff6207d5f0.vir
+PE: library: MFC(4.2)[Unicode]
+PE: compiler: Microsoft Visual C++(2017 v.15.0)[msvcrt]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/075c100fc2ab46e6273ce28f33869240.vir
+PE: compiler: Microsoft Visual C/C++(2002)[-]
+PE: linker: Microsoft Linker(7.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/075cfa0076f3c09d749a31898cbf277d.vir
+PE: packer: UPX(1.20)[NRV,brute]
+PE: protector: VMProtect(1.X)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07606a57b9cb9843bcb37f2dcfd553ae.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/07626a0c1b5cdb277709606059e50d75.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0767b62c711c40caa97fb1f1956958c9.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/076c2325cb7ba1bddd8ce2475591519e.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/076e1eb713fe5f20c29f32e3a8db120b.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/076f72831c8ffc79979934474f1e3d86.vir
+PE: compiler: Microsoft Visual C++(2013)[-]
+PE: library: Qt(5.X)[-]
+PE: linker: Microsoft Linker(12.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/07712777689e38ab260d35c42b6d0c3c.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0775f611b194153b323aa51198d345e0.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0776d8cc071650daf3dbc0354b2085ee.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/077a139dba7f784186bec151bf1a2fda.vir
+PE: compiler: Microsoft Visual C/C++(2005)[msvcrt]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/078048f517790288f063c76ce3cc8a68.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0781fc1fd068535e50e37961806ae4b6.vir
+PE: packer: PECompact(3.02.2 or 3.03.21 beta)[-]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0782e9de315a227db6ece55a249ad4e0.vir
+PE: installer: Inno Setup Module(5.4.2)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0786b3bc42f44cf439fb67294ef651a8.vir
+PE: library: .NET(WindowsRuntime 1.4)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/07898d67c8bfdb6becb12a9bb4255ff4.vir
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/078ec6fcd5c4439f4d035edf9ae672b4.vir
+PE: packer: ASPack(2.12-2.42)[-]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0794a0b4ba3aa818ac109954dbad9ed3.vir
+PE: protector: VMProtect(2.X)[-]
+PE: compiler: Microsoft Visual C/C++(2010)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07a03d6c1188b11dec82ea725425358a.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/07a348a860c962c044e694fd4bbfe367.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07a8e458217a0ba38d7ef78689557343.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: protector: Petite(2.X)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/07ac3fef0eb04b65cd9dbd70f68290a7.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07ae1c53421d61e795f2d54e39156a15.vir
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07bb27919fff7cf2175538ff38ac0787.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/07bbf07189b4e072af071f5599e443fb.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07bc219ca3ce95f072c79de69380d1db.vir
+PE: packer: PECompact(3.02.2 or 3.03.21 beta)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07c09898cda50c232f1ac844fa5e1019.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/07c9c921a12ae977c38d145c772b12d7.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: library: MFC(14.0)[Unicode]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/07cbaaf526992b671005aadac861b79b.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/07cd2c9a7a808d4ba2f6f929e4298528.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/07d17e171d13ffb89106482de7103e53.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/07d444ad8ad1991955e047b8e5af9950.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/07d586806b7fe16a32f66b78ad65efea.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b1)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/07db044f4fd8d7975644fee65a35d737.vir
+PE: packer: UPX(1.20)[NRV,brute]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07e61a08d4fa97a9eae143a29b7f85af.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07e7b00aafcd38c71425e618e5cfb393.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07e945dd63424c37c7d63d10e65e6ef7.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07ec6ef1fe517d82e3932540cf6bbd6b.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/07f2a0206b795f977056a190cf866383.vir
+PE: packer: DxPack(1.0)[-]
+PE: protector: Obsidium(-)[-]
+PE: linker: unknown(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07f301f076b979c0d5fe40690ddbcbdc.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07f51bde7686d5c702c3c51acdaf68ab.vir
+PE: installer: Inno Setup Module(5.5.0)[unicode]
+PE: compiler: Embarcadero Delphi(2009-2010)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/07f8294c7ca3425e9f5741e7aefee10a.vir
+PE: protector: Smart Assembly(6.9.0.114)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/07fa414f4da47775b96504cee31ef635.vir
+PE: packer: UPX(3.91)[NRV,brute]
+PE: linker: Microsoft Linker(12.0*)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0803822ac063f5649d5e008241d81513.vir
+PE: protector: Smart Assembly(6.9.0.114)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08068dcd77c5e2fd80fb1380866cca8e.vir
+PE: installer: Nullsoft Scriptable Install System(3.0)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08073fbc83e3aadb8fc3f4f9b4dbe4dd.vir
+PE: compiler: Microsoft Visual C/C++(2005)[msvcrt]
+PE: linker: Microsoft Linker(8.0 or 11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/080d095a25029492421541c2ac209b06.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08110b30991ccad68ab529ab564fbab5.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0813e69f9c94bb8e1a72364a81e9827f.vir
+PE: sfx: 7-Zip(4.65)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: archive: 7-Zip(0.3)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0814fed24543e1d276cc27d819cdb7b6.vir
+PE: compiler: Borland Delphi(4)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[DLL32]
+
+/home/server3/workstation/project/datasets/980/081589a741ac651cb98af08322c39784.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/081fc2e14ee50e71f7459eb12a671453.vir
+PE: linker: Microsoft Linker(11.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/08208b0776cda14daeb1fd3d4e3257a0.vir
+PE: protector: VMProtect(2.X)[-]
+PE: compiler: Microsoft Visual C/C++(2010)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08223246fd1bb2ab607be544bf755a90.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0822a39cbd7c5f4d4fd10ccde6ee657a.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/08246e8af8d521736e6dd560cb73a10e.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/083643b4cdf3f75322239068a3a793f0.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08393463b5b884e21d186ddf85ae3b6a.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/083a04802125047e617f807a3912eabb.vir
+PE: installer: Nullsoft Scriptable Install System(3.0)[bzip2]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/083a1adf50888df4a0182fe7eb281533.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/083da61698444f6c10021dfd36ccda79.vir
+PE: installer: Inno Setup Module(5.5.7)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/083e3862d5aba580e337b990f0102f7f.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0845bb18c6bc3e84f0fe45c869df4e5c.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0846cde2fd999d77dbdbb3eed0a1a7ba.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b1)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0850a0b9cf38aca47f9cc618e4f98852.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0851f5d551011f3b3da3ba6864aeacd2.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt,wmain]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0855004b1bf0c1f9d99c75ba69e0b01e.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/085a916bc5af233db8fd5da9adcec7dd.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/085d4d123061ae9284aa3461461e0750.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/085dd09c48396b329e2a72175228e4c4.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/085f7e2c98cbaea2f11a8dea1cceffbb.vir
+PE: compiler: Embarcadero Delphi(2009-2010)[-]
+PE: compiler: Microsoft Visual C/C++(2002)[-]
+PE: linker: Microsoft Linker(7.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/086352ee8d7e069ac146614dc28ed403.vir
+PE+(64): packer: MPRESS(2.19)[-]
+PE+(64): linker: unknown(10.0)[DLL64]
+
+/home/server3/workstation/project/datasets/980/0865ae5d6d19a592450fe7727d9317fc.vir
+PE: packer: UPX(3.08)[LZMA,brute]
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(7.10)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0868b7a327584657c88cc280dfda9e20.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/087a4d4e8578c7334c3bfc471b199e7f.vir
+PE: compiler: Borland Delphi(5)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08801ee517e9bf050e3e4511b78c1a72.vir
+PE: protector: Themida/Winlicense(2.X)[-]
+PE: linker: Microsoft Linker(14.11, Visual Studio 2017 15.3*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0885a8ac914eb70ccb648e27176998de.vir
+PE: installer: Nullsoft Scriptable Install System(29-Sep-2005.cvs)[lzma,solid]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08866d5ac725185ae5a6764100e930c1.vir
+PE: library: MFC(4.2)[Unicode]
+PE: compiler: Microsoft C/C++(3.1)[msvcrt,wWinMain]
+PE: linker: Microsoft Linker(3.1*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08877f4359ac699c55355d74be2fa028.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0889583c99e3cccbffb1e4abaa1c89fd.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/088db835512ff401079f1e97fe50df8e.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/088f438a4ec7bbda57b889e98c502f94.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08906a6f921a9c557d1dba05ed275a4b.vir
+PE: packer: UPX(3.94)[NRV,brute]
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0896c6f3096385d01e189d5e22f3308d.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/089c240a2a03fa62e49b788da8437c51.vir
+PE: compiler: Microsoft Visual C/C++(2017 v.15.0)[-]
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/089d1d1342b821e716a43f272ec41d8a.vir
+PE: compiler: Microsoft Visual C/C++(2012 update 1)[-]
+PE: linker: Microsoft Linker(11.0*)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/089f869108fe20a32585fe42a28e1ed0.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/08ac7a544c02cced6cfa0d7441d28dcd.vir
+PE: packer: UPX(3.00)[NRV,brute]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08b0a758e0cb2999fbc7c632666473eb.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2008)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/08b248fc460970016e1c588701289de0.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libcd]
+PE: linker: Microsoft Linker(6.0)[EXE32,console]
+PE: overlay: PDB 2.0 file link(-)[-]
+
+/home/server3/workstation/project/datasets/980/08b747e34941a5aaeacaccf78728c883.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08b91a2b33de9e8b0fb46c480980e999.vir
+PE: linker: Microsoft Linker(12.10*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/08ba2e770d552fea1b3fd779d2acf7b7.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08bec9199c4a74a3e2db326c7f8770bf.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08c4d85708d3ae2cb729a90b08cf4694.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/08c51abfc428784d88a59ce302e46ad7.vir
+PE: patcher: simple patch(-)[-]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/08cb033486a61bc0a16b650417be16ad.vir
+PE: installer: Nullsoft Scriptable Install System(-)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08ce164e8f382ef0aa96e833cb5a1dd9.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/08ce5b1a5885dacb712011622a74d64c.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08cfb74344c804ed60b4cc99b043bcf2.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(9.0)[Driver32]
+
+/home/server3/workstation/project/datasets/980/08d3b560494669fd3fe7baa2ef201d1e.vir
+PE: protector: Crypto Obfuscator For .Net(5.X)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08d78d9d5d754f29ecadc5faee5512b4.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08d7995f8f374634a31735c08451b86d.vir
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08d925ddfd462b5166a6f86972f3ce05.vir
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/08e00ca51e07f8e50493a49d3ac03754.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08e01c89ec86745bb56a692b30ee9b08.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/08e17a04f87df45b5d56d981096ca33c.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(80.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08e1b074e73fe2d0522529ab4a3536bc.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08e207b336566a0a8a8582475d9a47dc.vir
+PE: installer: Nullsoft Scriptable Install System(11-Aug-2010.cvs)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08e310ec4fc675be0197b4545492a845.vir
+PE: library: MFC(10.0)[-]
+PE: compiler: Microsoft Visual C++(2010 SP1)[libcmt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/08e642960ed371b1035cdd9d365ab15f.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08e6c8d71c79d69f093ee7244f95ace7.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b1)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08eadf5b2b3b0c645c85d114af3a9b79.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08ebe642d9aad484df4ea9377fb596e1.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08ec67014d4cf8010b29df14df63f28d.vir
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08ed5797e05a12e6f08be71ff2524c81.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/08f0dac98bb7858b8631415ef0f9a9a3.vir
+PE: packer: ASPack(2.12-2.42)[-]
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08f2c869f85c1b5dd00ee7481baee257.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08f3a7e8986dde0721a51de164c6737c.vir
+PE: linker: Microsoft Linker(7.13)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08f3cc3d45003448c16c2dd578e546ca.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08f7d805e9bc8bcf0283c990830f17d3.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08f9deacc8982a4ae196b3a2a4bfecf3.vir
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08fcd18312a6a66d09fdfd3efe2c4a73.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/08fcfa22e13e4616d9725d8f4756db6d.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09010a76db332eda636cce2c5082bf67.vir
+PE: installer: Nullsoft Scriptable Install System(2.45)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/09049fa2c6e596370377554f3041d421.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/090570500dbf9de206db72726d1563b1.vir
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/090e34e11f43a3642636511a0a6bb41f.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/090f0809dc9db83b4e01b1676bf70889.vir
+PE: packer: UPX(3.91)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/091077f61ab655d917ba608c08cbf287.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0913b71890e662f4dc7c5946fa45a7c4.vir
+PE: compiler: Microsoft Visual C++(2013)[-]
+PE: linker: Microsoft Linker(12.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/091520b68c2b3e5793b43e911d21eec5.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09158af437c4afe1c13c62e6d7e35391.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/091ab34b029701794a4e63d0c92cd940.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/09210bbf0c3bb26a2b925db19378ce4d.vir
+PE: compiler: Embarcadero Delphi(2009)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09213ed09095b3297dadb7c98ed42615.vir
+PE: compiler: Microsoft Visual C++(2015 SP1)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/092141b45a2e9299efbeb6d6b695c926.vir
+PE: compiler: Microsoft Visual C/C++(2005)[msvcrt]
+PE: linker: Microsoft Linker(8.0 or 11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/092309bd58aa88509b9adc125988d0ea.vir
+PE: compiler: Microsoft Visual Basic(5.0)[Native]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0926279a6c7a2763d4a307c0f25febbb.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0927cabd6b14f73f17cdde684a689683.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/092e4348648144fcae3069d2edb86932.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/092fef05e10fdfa2fdc79c5bcd1d1a3a.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09313a9ec0849e6b1756448ac4a4b6f8.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/093161aa1d60bc351bd1f13e36227b92.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0931fda0b4d464bafcd2df98d59d97e1.vir
+PE: compiler: Borland Delphi(-)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0937d988f7e68f5b674be7f5fb5b4d50.vir
+PE: compiler: MinGW(gcc-4.4.1)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/093be4d911fca95ddee0d7e350200369.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/093d37e759448dd3be761e369515dabb.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/093f7075e34e7a162f32cefdc41a06b9.vir
+PE: installer: Inno Setup Module(-)[-]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/094098b41cd66a4ef8c4f67184e67ee2.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0949a984afc7b9b6496b2040dc190e97.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/094ce5f02ed7763e12f1c00a033806a7.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/095c746b1221b9fd350fc85ec299a2c2.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/095ef844d88511eb74ec3ac048fb4e92.vir
+PE: library: MFC(11.0)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/095f96280facec9b29121c6cb9c8f05b.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/096046f7ce5e8825cb35eb20ffc2cae9.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/096260ee61db26ba14e9a42eb0d03807.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09656fc9b6cb209f65b3cbccb5a80c72.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0967fca1089010a0d892071bacd1b7b1.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/096d33ca76d17a845ec29fb995f6f537.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/09708176d00e81c128056634bf070c22.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/09721820592b1edefed340d1f5653775.vir
+PE: compiler: Embarcadero Delphi(2009)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09725caf5fe349e14b9e070839b6426a.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09794269ecf71fff6bb98c83b6cf49a2.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: unknown(14.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/097b5f57246d90e1395721aa86d03c53.vir
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/097bb086f4933f2d934f36976bb9f6c2.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/097d14e30b84d8783b4844437310870f.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt,wmain]
+PE: linker: Microsoft Linker(9.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/097f0155ffd7ceec53d747ee71f9f2b6.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/097f86da221411cf87a8987677f2c77a.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/098393b540f985a8c86f19b3e37ccc5a.vir
+PE: compiler: MASM(9.00.21022)[-]
+PE: linker: Microsoft Linker(9.0)[DLL32,signed]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0987c3ac15d7c38370c0eb6deb2cb2a2.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0989bfee7e41cbab6ba375d08cf4ff95.vir
+PE: compiler: Free Pascal(2.4.0 [2009/12/18] for i386 - Win32)[-]
+
+/home/server3/workstation/project/datasets/980/098dc9b5983565315e81ffe3844d8825.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0994a8b6950f1f40476a0955d96abb83.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09962272dd194c8c60d86b79a8fbf912.vir
+PE: packer: NsPacK(3.x)[-]
+PE: compiler: Microsoft Visual Basic(5.0)[-]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/099697b183c96eecd24912971811c7ab.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0997c4e44cf686663bd2f5ac4ecb4601.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09988c0e1cc626016af557e615cbded0.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(6.0)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/099c30fba78452c3d99630ab156af282.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/099ff665b5a672e10303d54c670320e6.vir
+PE: linker: Microsoft Linker(7.10)[DLL32]
+
+/home/server3/workstation/project/datasets/980/09a0ee5adff78c9767100dc79d12772a.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/09a13f523b629a69282eebdc7848616e.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.26)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/09a5af108ed2aeb4ee36e217997dba1c.vir
+PE: installer: Nullsoft Scriptable Install System(-)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/09a69de69a5961651b06abfb0cdc433a.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09a7154c71c1abf495e84b39f2ced39b.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09ab5fb6f11fe9a520586f3043c51de5.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09ae288569befe2824e2b83528dfa09c.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/09afec861ec2a246d1ba6f1ff443031f.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/09b1fd84ee664676597a9085108ecaad.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09b2f20845412057344dce2e036c0bce.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09b40091b3d8e70544610c6e25e5cdd3.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/09b78246afddcd9eaba5b54be0e3aadd.vir
+PE: linker: Microsoft Linker(5.12)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09bd7f1c8d68e40e40e47915f278e8d3.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: archive: Microsoft Cabinet File(1.03)[LZX,98.6%,15 files]
+PE: linker: Microsoft Linker(7.10*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/09bd8115d60d30abdd739edf873614f8.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09be69e3341d6cbfdb92906c01a5876b.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt,wmain]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,console,admin]
+
+/home/server3/workstation/project/datasets/980/09c0ce1c61a286319e03779c76eb8dae.vir
+PE: compiler: Microsoft Visual C/C++(2002)[libcmt]
+PE: linker: Microsoft Linker(7.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09c54778b3674f53c9fad70cfc422932.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libcmt]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09ce43cc126fcebcabde52a6dbd8d7e6.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/09ce9beb731b24bfbcbd03cd83f457b8.vir
+PE: compiler: Borland Delphi(2-3)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/09d29870b38dabc1573f5c134ffb9b21.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09d3b7d04f78c021adeb0a67449e35ab.vir
+PE: protector: Themida/Winlicense(1.X)[-]
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(7.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09d73a160c4aea70a153d4f36e6ea9c0.vir
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09d8706017394e663e65757d7f19a678.vir
+PE: compiler: Free Pascal(2.6.4 [2015/04/18] for i386 - Win32)[Lazarus]
+PE: library: LCL(U)[-]
+
+/home/server3/workstation/project/datasets/980/09e8a1d5fc61011e720da926eef0ded3.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09e95f8db5b6578b967a9276ba03083e.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/09ed3aa4ec7229a1e438249aabf5859f.vir
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09f0351dfce179fb9ba101dfc337eb5d.vir
+PE: library: MFC(12.0)[-]
+PE: linker: Microsoft Linker(12.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/09f22378641d320b50e3465a6aa8131a.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09f594133f19e17ddc9342e4b7081daa.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/09ff3895fcd18c2effbc3843635f0fd3.vir
+PE: protector: Smart Assembly(6.7.0.239)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(48.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a037da609eb2d50e273afd3d9ec8e85.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0a0ad5ff274a524fe85b643efa852627.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a1023c0d17681b9154ac0f3c0a03865.vir
+PE: installer: Inno Setup Module(5.5.3)[uninstall]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a17eca34e67f5b4fb1394dae08d4962.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a21a5b990c3e39d8744dc0e323b0d7d.vir
+PE: compiler: Borland Delphi(6)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a25d9f9e8c6d68232d4d1c23ae9d70c.vir
+PE: compiler: Microsoft Visual Basic(5.0)[Native]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a2fd78b2f9efe24ca9223993fa7ca09.vir
+PE: linker: Polink(2.50*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a30ccfe3aa43399dfe91a740143ae86.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0a3c1161049556a21c57ab94a63fe0aa.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/0a400587c8954220020e5aeb6f277762.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a43d9059218c1d8271becac4c5fe6ce.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0a51027b68d38d92bf2b711d4e25a4b6.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a52f2fb0318031bf2cd2429e71c54d0.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a5d7a57836d00c30c75bf3d75980962.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: protector: VMProtect(1.X)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a6c82b6e2905a18cd069b13f2e4653f.vir
+PE: installer: Nullsoft Scriptable Install System(3.0a2)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0a6f6c476747acb48784cef964843e93.vir
+PE: linker: unknown(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a76114fedc30b7a8f83bdf5600f5199.vir
+PE: installer: Nullsoft Scriptable Install System(3.01)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0a7fa330f5bc98804a5ab9c1b1c05274.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0a8d34227ff751975680bd8ad007a73c.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0a93973576d94e446ce23311a7a275f3.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0aa02837018ba74fec97f5bab8a9ff67.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0aa9f53d042ee9ddeb453abc627bb455.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0aac51f0a68c612c7ee445bd8244b805.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ab45fb8bfaac72662f84ff29ab10d4d.vir
+PE: compiler: Microsoft Visual Basic(4.0)[-]
+PE: linker: Microsoft Linker(4.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ab741ed483b5dcbcc5dd902b7a7f71d.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0abae5cd0cab89bff117ac81e6c040b3.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ace535c3396917eb38676de76832a4d.vir
+PE: installer: Nullsoft Scriptable Install System(2.39)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ace8a75c27d992bceba0b91fa33e066.vir
+PE: compiler: Embarcadero Delphi(2010)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0acecc1a0168b3575e18dfa6300c1127.vir
+PE: compiler: Borland Delphi(-)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ad30bbef8ca81e1c075fec95f11f149.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0adaa246ca3248bc6f82a2c366ff7507.vir
+PE: protector: Confuser(1.X)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0adfe70f297d2b732350fc0efc9722ef.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ae17e3a3e93ebfc82d76cbaf6523d16.vir
+PE: installer: Nullsoft Scriptable Install System(9.99-log1)[lzma,solid]
+PE: compiler: MinGW(GCC: (GNU) 4.8.2)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.23)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ae2ca0e03e1d73cce456c0a138b8674.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libcmt]
+PE: linker: Microsoft Linker(7.10)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0ae6297311254b2b4238bfdc6ee603ce.vir
+PE: packer: PECompact(3.02.2 or 3.03.21 beta)[-]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0afa4026458d52e65ea9eab33e367024.vir
+PE: installer: Inno Setup Module(5.4.2)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0aff00a4ac6bea36a59eb5d569ee5b18.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: protector: Petite(2.X)[-]
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0b0a1581bd52d122064483b6cce4c14e.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b0a25bb1b9c26ff6bf7f9a81aad2b2b.vir
+PE: compiler: Microsoft Visual C/C++(2015 SP1)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0b0b37870943cc76b7185ce2483d3f73.vir
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b0bbd4d77ad4397f45986fc3815a46a.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b121b09d91dbb0c0ddd80de706bfa1f.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b24486e82a7452723ef30694cc3d847.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0b2671f32fb6b35488bae5f31060767e.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0b30c77aa3fdb808aede01ff94c051af.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0b31c6caf0a7f9d6a46e009cb0ee5f20.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b34f54a97cee1c1f06d0f7c797735b3.vir
+PE: installer: Nullsoft Scriptable Install System(3.01)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0b4297cbdc456f8e157db860ccad1dcb.vir
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b43236155522d7689a1659e395a6814.vir
+PE: protector: VMProtect(-)[-]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0b4c198384b1902a45633d6a6992c467.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b4f4754095ecba2e77e6112b410adf2.vir
+PE: linker: Microsoft Linker(14.10, Visual Studio 2017 15.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b5b065f5d35cb1c6b73cad4ba53f2f1.vir
+PE: packer: UPX(3.94)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0b5d2576557b6923041772d769707d52.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0b6af6ff4867398800418de2f3b4e99b.vir
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b6cd355f10e741d71b0b51ccb51ea0b.vir
+PE: packer: UPX(1.24)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b77828ee50b9f7cba7dce4dff89fc88.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0b77b752fcc551204861f6d39af6334f.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b7a5c884d4564aecd6298c514ec7626.vir
+PE: linker: unknown(7.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b7bb5047bfcab4ec9250193f0ab168c.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b885c34dd6a4b6cf4c5c920ad6caa55.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0b9798364a850a5468093a8f8e3851cb.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ba2d4fb431c80d62e4ff9d58c8f03d5.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ba89a69aa7c7710ac2dad31894cf5c1.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(9.0)[Driver32]
+
+/home/server3/workstation/project/datasets/980/0bae9207863a12de2df8584b8e7dd0f7.vir
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0bb02683accfabc4a3fc555753cd61ae.vir
+PE: installer: Inno Setup Module(5.5.6)[uninstall,unicode]
+PE: compiler: Embarcadero Delphi(2009)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0bb95e6749fc51191c193e947a8b6a3c.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0bcacfb621234e81e591a6972bfd0e08.vir
+PE: packer: UPX(1.23)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0bcb2eda25c4f50e294f5601f927d95f.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0bcce2389eac38be34ca91db3ab3203d.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0be19bedb99844457f7d2a48235bb9f7.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0be2d805bdaea578aa28cf5483727529.vir
+PE: packer: UPX(3.07)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0be68c86691dff3c83615b91ca7cf2ff.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0bf22a95922b51c2ed7249df7aa454a7.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(12.10*)[DLL32,signed]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0bfe27374de5c55ebe5f07582e92f313.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c0a8ad4ed92325df13ab55dd7764745.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c115681166e8d1af1df3a9600c3d98c.vir
+PE: packer: UPX(1.24)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c13f8be95fc557f0ac95fc533b5fa52.vir
+PE: installer: Nullsoft Scriptable Install System(-)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c203c18edfd1ef3d7536f1ce1f692c7.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c25b5baae5815c310dd67daad96f130.vir
+PE: compiler: Microsoft Visual C/C++(2005)[msvcrt]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c267b20858884709738ff9307927e1a.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+PE: overlay: PDB 2.0 file link(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c35dfbdd720cc389ec4f9adbf191a7c.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual C/C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c35e268f042a12ad42618f5e3ce4ffa.vir
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,admin,signed]
+
+/home/server3/workstation/project/datasets/980/0c370821723ec9b2cc5dad69b702f77b.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c4073c9116733eafde5a333d0c5acd4.vir
+PE: linker: Microsoft Linker(6.6*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c4153282d3f3a8c08b5fe14ed6e5c9f.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c42d26894c80f7720e4f7477b72486d.vir
+PE: linker: Microsoft Linker(10.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0c43e76ec174029baceb9825817d84f4.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c4d74fe76690abff26ccfeed7ebeeb4.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c4dfb35e0fe29dc2dcd7df3a0cb6d7c.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c506b0a4e41900908e0d0c4674be0af.vir
+PE: installer: Inno Setup Module(5.5.7)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c536a4a8981bb146b555b87eb8017ad.vir
+PE: packer: UPX(3.03)[LZMA,brute]
+PE: linker: unknown(5.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c61f1358934ad247d896e60df27f56e.vir
+PE: protector: Petite(1.4-2.2)[-]
+PE: linker: unknown(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0c63859344988a38fe6a39090c2fe062.vir
+PE: linker: unknown(1.17)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c665b8966eb1722a0086840de6f0700.vir
+PE: installer: Nullsoft Scriptable Install System(-)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c6959a0902694325ff1b6b43fb31028.vir
+PE: sfx: INFTool(-)[-]
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c6d1a71d1d5c27a2fd24a9b5b8bb042.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c77ed3067e2589ed96e02434ad7cd0d.vir
+PE: protector: Eazfuscator(-)[-]
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0c847428e4ba5e2e072e3681109fa18f.vir
+PE: linker: Microsoft Linker(3.10)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0c8552a6903873a14fabb1dfacbfe291.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0c8eeca34a84dfc0aa3b13f8dba7bb82.vir
+PE: linker: Microsoft Linker(5.12)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0c9bf5174efa72cfc81fb85f40102349.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0c9ff80f125408ea006f71347daf5ebd.vir
+PE: installer: Nullsoft Scriptable Install System(-)[lzma,solid]
+PE: compiler: Microsoft Visual C/C++(2008)[-]
+PE: linker: Microsoft Linker(9.0)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0cb90d67f12129603a1cd8f87974f752.vir
+PE: installer: Nullsoft Scriptable Install System(2.46.5-Unicode)[zlib]
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0cbe9f2de447832615ba4441249c3a77.vir
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0cc7487295f777ddca6f34a146a6ff2b.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0cce7dda72d437474f0c8f4e9c5e9815.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ccfa2141e4649e92e8154cdc23618e8.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0cd1a846b62c6b32842aa46c2e852990.vir
+PE: library: MFC(9.0)[-]
+PE: compiler: Microsoft Visual C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0cd605f2ce79b21c773bb19dcb4b4f39.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0cd8eb7394389fd84deaaa48d59a5f14.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ce135ce5d8ddb63e20602fa4d73f15e.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(7.10*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0ce4bab31f01aae7de3a558c3cb7b972.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0cf77b8486a5da08f7e3f7a4b7a0fd7b.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt,wmain]
+PE: linker: unknown(9.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0cf989e69ff9574188a3c1f0e04be09f.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0cfacf94f54a225407f5582fb89548f8.vir
+PE: installer: Inno Setup Module(5.5.0)[-]
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+PE: overlay: Inno Setup Installer data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0cfcbee61017e90c3a7550d23e9f98d7.vir
+PE: packer: UPX(1.24)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d01afdd07de3f8f325dd6da9ee47763.vir
+PE: installer: Advanced Installer(-)[-]
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d23b2b8250ac38fbc27685900b53b71.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d248e567428a74b63e6f589da965be8.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d28e70f04661c6473d21039378aeadb.vir
+PE: library: MFC(4.2)[-]
+PE: compiler: Microsoft Visual C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d2a95f96eaa0bb777865122da72d244.vir
+PE: installer: Nullsoft Scriptable Install System(3.0a1)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0d2fe1941f70a5a796d4a540ee5d2819.vir
+PE: compiler: Microsoft Visual C/C++(2003)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0d334a50bdb228ee2f23b95e785fc720.vir
+PE: compiler: Borland Delphi(7)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d33ec168a07be9880168f9f841e68a8.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0d34debe34b5c35d90da6cf5389bbed3.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d37729efce4c120d6bf35b6debd4958.vir
+PE: library: MFC(11.0)[-]
+PE: linker: Microsoft Linker(11.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0d56f1cd9f0c3ab66e840f1b68f6dc7b.vir
+PE: archive: Microsoft Cabinet File(1.03)[LZX,33.0%,11 files]
+PE: linker: Microsoft Linker(7.10*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0d5abc3557b0cec58012fedcef2060ef.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d77964b5eb39649404da939c396617b.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0d77f584b1f23e872645d2fec1280463.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32,console,admin]
+
+/home/server3/workstation/project/datasets/980/0d7ee772f7890d834828aed003b0a2e4.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0d8719274027ca802ff7a75244d1fd24.vir
+PE: compiler: Microsoft Visual Basic(5.0)[Native]
+PE: linker: Microsoft Linker(4.20)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d991f9bccede70b90c9ad59802c3453.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0d9c920712d43595f7a6ba802b49d017.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0db94f2d5b3ade6b25a5acdc7ce66f4a.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0dbe3499dc316df11245ce7472581707.vir
+PE: library: MFC(9.0)[-]
+PE: compiler: Microsoft Visual C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0dbf5f0e978005b34a2e0d084a87d166.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[msvcrt]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0dca22da5babe19de64f63cc273b5a10.vir
+PE: packer: UPX(3.03)[NRV,best]
+PE: compiler: Microsoft Visual Basic(6.0)[-]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ddf8ca5e7d4181b4268d74ffbdef64a.vir
+PE: linker: unknown(0.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ded8e1490e63f26a3e17a07d86263dc.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0df18c49b221b5591133a0c025708e37.vir
+PE: protector: .NET Reactor(4.8-4.9)[-]
+PE: library: .NET(v4.0.30319)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(6.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0dfeb10e7bc9c362c4d248fce9c7520b.vir
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0e0a08a9262e2e78168a70a603413086.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e0bc914ca8758d87d974df91bd7372f.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e18ca5c56890924a98e0ea9b26c91fa.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0e18feab46b7767fefd25982c17cbf84.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e22568f8a2f9fc4931938780c519a79.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e2b755415e13944099ac85ee3b99986.vir
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e2d2dae56204b8893337b85af9c784c.vir
+PE: linker: Microsoft Linker(12.10*)[DLL32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0e3385d2e890b8c4a487e50b7bedd83b.vir
+PE: linker: Microsoft Linker(12.12)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e3488e7d3f3879d338607f993f4dc17.vir
+PE: compiler: Microsoft Visual C/C++(2002)[-]
+PE: linker: Microsoft Linker(7.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e34fd5cc008d85bddf744a0bc054fd5.vir
+PE: sfx: temporary EXE SFX(-)[EXE files in overlays not supported now]
+PE: compiler: Microsoft Visual C/C++(2003)[libcd,wWinMain]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+PE: overlay: EXE file(-)[-]
+
+/home/server3/workstation/project/datasets/980/0e48933362113bbadd34dc995b7eca3f.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e4b5f7844266d8bed82331d5d1cdaa9.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0e4ec60a6d67f7bad3d70a5703e7ec6c.vir
+PE: compiler: Borland Delphi(2006)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e54fe4a95c2b87c40b20d706ff3770c.vir
+PE: protector: VMProtect(2.X)[-]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0e5662d8953937fdee9314da7139bb74.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma,solid]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0e5b83f7a09d219e2f8a8163745badb4.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e79804643c69edceeb9b895c334b916.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e7a87f163bc1236745b6e80cafa3698.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2003)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0e86c384068d98f9b731a53008f03b0a.vir
+PE: packer: UPX(3.02)[LZMA,brute]
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0e9018001f1da69193b64029c603b783.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[-]
+PE: archive: Microsoft Cabinet File(1.03)[MSZip,32.3%,1 file]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0e935ab80e344d93a4a499db96e4ec89.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b0)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ead07b7936f729d1fac2096099cd01c.vir
+PE: linker: unknown(5.12)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0eb12e1974fc249a583d134878689a0e.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[msvcrt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0ebc0c9ee95727568890ab410c83e846.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ebc8ad5dc646c89898b498f90828949.vir
+PE: packer: DxPack(1.0)[-]
+PE: protector: Obsidium(-)[-]
+PE: linker: unknown(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ec2ddb6c5ce9834a85c19a78f73623b.vir
+PE: compiler: Borland Delphi(2)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ec485e390c0f1a2d58936719c9a6c79.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ecb78d06fb700d2d556b3346d2d2845.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0ed1fca629ac88a656d0ce6f56cb7773.vir
+PE: compiler: MinGW(gcc-4.4.1)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ed7e47c2ad61cfbc60b13e11d944b18.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0ee222d2cdcf41ba9da23cd171581c11.vir
+PE: installer: Nullsoft Scriptable Install System(3.0b2)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0ee342eb40f5f50eb2774402c64d87ad.vir
+PE: linker: Polink(2.50*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ee4954c348d3d19c7c376329a4dd397.vir
+PE: compiler: Microsoft Visual C/C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32,console]
+
+/home/server3/workstation/project/datasets/980/0eebf34e5bd0e49db115648ef0541838.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0eec7a9632ffbccf9514a3d9c546df6c.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ef2a106179929f27b73b3dd0c1fc19a.vir
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0ef69573158e67fce06c02c68dc53d10.vir
+PE: library: MFC(9.0)[-]
+PE: compiler: Microsoft Visual C++(2008)[libcmt]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0ef741bc5e32be84de1bbd0c63bd7e74.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0efa7bf43c1669022d1af1a8edcf6443.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[lzma]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0f0e83ec1882c6c489f1943420856318.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f1228c71aa7eaefe94607e19308f763.vir
+PE: installer: Nullsoft Scriptable Install System(2.46)[zlib]
+PE: linker: Microsoft Linker(6.0*)[EXE32,admin,signed]
+PE: overlay: NSIS data(-)[-]
+
+/home/server3/workstation/project/datasets/980/0f13b388255936d54b69b866294b7eef.vir
+PE: compiler: MinGW(-)[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.56*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f165bd959f520dd55121e83811ccb5c.vir
+PE: compiler: Microsoft Visual C/C++(2008)[msvcrt]
+PE: linker: Microsoft Linker(9.0)[DLL32,signed]
+
+/home/server3/workstation/project/datasets/980/0f1845f8641f174e6bd76bb02c2ec785.vir
+PE: compiler: Borland Delphi(2006)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f25eb192e845cc84500c1f73a920178.vir
+PE: compiler: Microsoft Visual C/C++(2005)[-]
+PE: linker: Microsoft Linker(8.0 or 11.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f27e3676ea010ce32b4c83e7d003eda.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f2a983b64522fc7fec9f81de5fd15df.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f2e5be3e84927feb075feb4f036aa65.vir
+PE: compiler: MinGW(GCC: (GNU) 5.4.0 20160603 (Fedora Cygwin 5.4.0-2))[-]
+PE: linker: GNU linker ld (GNU Binutils)(2.25)[EXE32,console]
+
+/home/server3/workstation/project/datasets/980/0f3255fb2dff0c4e98e755ee4b534899.vir
+PE: library: .NET(v2.0.50727)[-]
+PE: compiler: VB.NET(-)[-]
+PE: linker: Microsoft Linker(8.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f34103fc9e3faf4a1931330cadbf06a.vir
+PE: library: .NET(v4.0.30319)[-]
+PE: linker: Microsoft Linker(11.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0f3c4d85e88a8f1ff1798613e3b596a3.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f401c7fafae30352cdcfc2a5e3ba3f7.vir
+PE: library: MFC(-)[static]
+PE: compiler: Microsoft Visual C++(2010 SP1)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(10.0)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0f41a4ccc356b05878b596d72bceafa1.vir
+PE: compiler: Borland Delphi(2006)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f42bb1f13b42893bac20d5c6496cd7f.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0f4d3c1f35493a08ae6d88aae7c5c3dc.vir
+PE: compiler: MASM(-)[-]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0f547fdfa1cdf124245dc179ee40a575.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f5aa4538ab54c970a5d4eebe513da72.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f5f82c06644eab4167d68813c2ac1bc.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f6e2594c3b54f031e2dccd471ba88be.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[-]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f7d0e210370186acf6e5d4676a48e18.vir
+PE: linker: Microsoft Linker(5.2)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0f87e5e4887ca9256070cdf212862c50.vir
+PE: packer: UPX(3.03)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f89bfd426a405b0a4aa813f382b0153.vir
+PE: library: MFC(4.2)[Unicode]
+PE: compiler: Microsoft Visual C++(2015 v.14.0)[msvcrt]
+PE: linker: Microsoft Linker(14.0, Visual Studio 2015 14.0*)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0f8f197e212f9b8270e0cd88314bd2e6.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0f9b34edcea8ae6f1a73914681cb1ad0.vir
+PE: compiler: MASM(9.00.30729)[-]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+PE: archive: Resources(-)[-]
+
+/home/server3/workstation/project/datasets/980/0f9b3dca9222a194f2682b7bcdcb3c8b.vir
+PE: packer: UPX(3.91)[NRV,brute]
+PE: linker: Microsoft Linker(12.0*)[EXE32,admin]
+
+/home/server3/workstation/project/datasets/980/0fa0f592772e2d34611fce8a963e27b5.vir
+PE: compiler: Embarcadero Delphi(2009-2010)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,console,signed]
+
+/home/server3/workstation/project/datasets/980/0fa637a12164cd1aa67bdac329856304.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0faec60285056ac915617b9148db0058.vir
+PE: packer: UPX(3.07)[NRV,brute]
+PE: compiler: Borland Delphi(-)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fb081f8a25386590663735f7714e793.vir
+PE: compiler: Microsoft Visual C/C++(2010 SP1)[libcmt]
+PE: linker: Microsoft Linker(10.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0fb9a287db8f4988edc626afe3a4b9d1.vir
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fb9a72e9bf192645526a02b822bab01.vir
+PE: compiler: Microsoft Visual C/C++(2010)[libcmt]
+PE: linker: Microsoft Linker(10.0)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fbb0c3a9786691431280b9664320978.vir
+PE: compiler: MASM32(8-11)[-]
+PE: linker: Microsoft Linker(5.12*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fbf53a6e0c1f02907f9b8a86cfb30c3.vir
+PE: compiler: Borland Delphi(2006)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0fcaacdb363caf932f7d216a74becd10.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[libcmt,wWinMain]
+PE: linker: Microsoft Linker(9.0)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0fd09c05d3435abd6f8979a1c5ae7f6f.vir
+PE: packer: UPX(3.00)[NRV,best]
+PE: protector: VMProtect(1.X)[-]
+PE: compiler: Microsoft Visual Basic(6.0)[P-Code]
+PE: linker: Microsoft Linker(6.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fd1aa8c02a42d19b9559dab16001e24.vir
+PE: compiler: Microsoft Visual C/C++(2013)[-]
+PE: linker: Microsoft Linker(12.0*)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fd5342e459ea3764981b8cbe6b990c4.vir
+PE: compiler: Microsoft Visual C/C++(2003)[libc]
+PE: linker: Microsoft Linker(7.10)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0fdc0988d3873633adc58f4c1351b8c8.vir
+PE: compiler: Microsoft Visual C/C++(2008 SP1)[-]
+PE: linker: Microsoft Linker(9.0)[DLL32]
+
+/home/server3/workstation/project/datasets/980/0fe91fb4ed273a7043b01f2ebd8f797c.vir
+PE: compiler: Borland Delphi(6-7 or 2005)[-]
+PE: linker: Turbo Linker(2.25*,Delphi)[EXE32]
+
+/home/server3/workstation/project/datasets/980/0febfa4850295da4b96e1423cfa523e5.vir
+PE: compiler: Microsoft Visual C/C++(6.0)[libc]
+PE: linker: Microsoft Linker(6.0*)[EXE32,signed]
+
+/home/server3/workstation/project/datasets/980/0ff6096acb4838e93c7f8395c5fd37cd.vir
+PE: compiler: Microsoft Visual Basic(6.0)[Native]
+PE: linker: Microsoft Linker(6.0*)[EXE32]

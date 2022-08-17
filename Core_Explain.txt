@@ -1,0 +1,30 @@
+#####core#####
+
+Challenge_Normalization.py : 대회용 정규화 코드 (Train set외 모두 주석처리 되어있음)
+
+Check.py : 데이터 셋 개수 체크
+
+DataSet.py : 데이터 셋 다른 폴더로 복사 하기 (데이터셋 많을 경우 사용)
+
+Deduplication.py : 라벨 중복 제거 (라벨 합칠때 사용)
+
+Label.py : 라벨 만드는 코드
+
+Normalization.py : Challenge_Normalization.py와 기능 같음
+
+NotincludeZero.py : 패딩 제거 후 이미지 화
+
+ResNet50.py : ResNet50 모델 (파라미터 2300만)
+
+Section_image.py : Section헤더만 뽑은 후 이미지 화
+
+Training_model.py : 훈련시킨 모델 불러온 후 재 학습
+
+binary_image.py : 데이터 셋 바이너리 전체 읽은 후 이미지 화
+
+dataset_move.py : 라벨에 있는 데이터 셋 찾아서 새로운 폴더에 저장
+
+evaluation.py : 평가
+
+unpack.py : Unpacking
+
